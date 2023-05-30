@@ -1,0 +1,116 @@
+{
+    "statements": [
+        {
+            "hint": "A classic word-guessing game.",
+            "answer": "hangman"
+        },
+        {
+            "hint": "A gathering with delicious food.",
+            "answer": "pizza"
+        },
+        {
+            "hint": "Clear skies and warm weather.",
+            "answer": "sunny"
+        },
+        {
+            "hint": "A task to test programming skills.",
+            "answer": "coding"
+        },
+        {
+            "hint": "Time off from school or work during summer.",
+            "answer": "vacation"
+        },
+        {
+            "hint": "A sweet and indulgent dessert.",
+            "answer": "cake"
+        },
+        {
+            "hint": "Starting fresh with something new.",
+            "answer": "beginnings"
+        },
+        {
+            "hint": "A light meal eaten late at night.",
+            "answer": "snack"
+        },
+        {
+            "hint": "A person who loves reading books.",
+            "answer": "bookworm"
+        },
+        {
+            "hint": "A journey taken by car or bus.",
+            "answer": "trip"
+        },
+        {
+            "hint": "A magical and snowy landscape.",
+            "answer": "winter"
+        },
+        {
+            "hint": "A short pause to enjoy a cup of coffee.",
+            "answer": "break"
+        },
+        {
+            "hint": "Celebrating the anniversary of one's birth.",
+            "answer": "birthday"
+        },
+        {
+            "hint": "An evening of playing board or card games.",
+            "answer": "game"
+        },
+        {
+            "hint": "Someone who has feelings for another person secretly.",
+            "answer": "admirer"
+        },
+        {
+            "hint": "A day of relaxation and doing nothing.",
+            "answer": "lazy"
+        },
+        {
+            "hint": "An entertaining film for casual enjoyment.",
+            "answer": "movie"
+        },
+        {
+            "hint": "Singing performances with lyrics on screen.",
+            "answer": "karaoke"
+        },
+        {
+            "hint": "Thoroughly cleaning and organizing in springtime.",
+            "answer": "cleaning"
+        },
+        {
+            "hint": "Infatuation or affection in young people.",
+            "answer": "love"
+        },
+        {
+            "hint": "Climbing and walking in hilly terrains.",
+            "answer": "hike"
+        },
+        {
+            "hint": "Narrating tales around a fire in the wilderness.",
+            "answer": "stories"
+        },
+        {
+            "hint": "Exciting exploration in a dense forest.",
+            "answer": "adventure"
+        },
+        {
+            "hint": "A French phrase used before a meal, meaning 'enjoy your meal.'",
+            "answer": "appétit"
+        },
+        {
+            "hint": "A celebration organized to shock someone pleasantly.",
+            "answer": "surprise"
+        },
+        {
+            "hint": "Colorful foliage that falls in the fall season.",
+            "answer": "leaves"
+        },
+        {
+            "hint": "A tropical and idyllic getaway.",
+            "answer": "paradise"
+        },
+        {
+            "hint": "A romantic meal lit by candles.",
+            "answer": "dinner"
+        }
+    ]
+}
